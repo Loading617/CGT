@@ -1,2 +1,2 @@
 # CGT
-Windows Photo Collage Creator 
+Photo Collage Creator for Windows
